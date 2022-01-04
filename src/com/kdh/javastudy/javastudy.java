@@ -2,7 +2,7 @@ package com.kdh.javastudy;
 
 import java.util.*;
 
-public class javastudy01 {
+public class javastudy {
 	
 	public static void main(String args[]) {
 		
